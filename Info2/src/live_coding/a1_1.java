@@ -1,6 +1,6 @@
-package pkg1;
+package live_coding;
 
-public class main {
+public class a1_1 {
 
 	public static void main(String[] args) {
 		int[][] a = new int[][]{ null, { 34, 35 }, { 234, -34, 34 }, {}, null, { 1, 17, 3, 145 }};
